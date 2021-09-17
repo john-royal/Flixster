@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src='https://raw.githubusercontent.com/john-royal/Flixster/main/FlixsterWalkthrough-1.gif' title='Video Walkthrough' alt='Video Walkthrough' width='200px' />
 
 ### Notes
-Describe any challenges encountered while building the app.
+Following the tutorial exactly resulted in views with no layout constraints applied. This is likely due to API changes that came about after the tutorial was created. I was able to add the required constraints, but it did take some time for me to figure that out.
 
 ### Open-source libraries used
 
